@@ -4,7 +4,7 @@ Product-minded builder who turns ambiguous problems into shipped, measurable res
 
 Computer Information Systems & Technology + Marketing @ UT Dallas (Davidson Honors)
 I write the requirements, then I usually build the thing too
-SQL · Python · Product Strategy · Full-Stack Development
+
 
 ---
 
